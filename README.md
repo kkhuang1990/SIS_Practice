@@ -1,2 +1,4 @@
 # SIS_Practice
-for Streamlit in Snowflake (SIS) practice
+
+## Purpose
+to practice Streamlit on Snowflake with source file saved at GitHub repository

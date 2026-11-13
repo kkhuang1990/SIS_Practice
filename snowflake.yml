@@ -3,7 +3,7 @@ entities:
   streamlit_app:
     type: streamlit
     main_file: streamlit_app.py
-    title: "Untitled"
+    title: "SIS_practice"
     query_warehouse: "COMPUTE_WH"
     compute_pool: "SYSTEM_COMPUTE_POOL_CPU"
     artifacts:
